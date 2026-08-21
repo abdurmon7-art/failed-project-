@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Free Fire UID Checker</string>
+    <string name="title_app">FF Player Info Checker</string>
+    <string name="subtitle_app">Lookup real-time player stats, rank, guild &amp; pet details</string>
+    <string name="label_uid_input">Player UID</string>
+    <string name="hint_uid_input">Enter numeric Free Fire UID (e.g. 123456789)</string>
+    <string name="label_server">Select Server / Region</string>
+    <string name="btn_search">Search Player Info</string>
+    <string name="btn_clear">Clear</string>
+    <string name="loading_player_info">Fetching Player Information...</string>
+    <string name="loading_tip">Connecting to Free Fire API servers</string>
+    <string name="title_recent_searches">Recent Searches</string>
+    <string name="title_player_profile">Player Profile</string>
+    <string name="tab_overview">Overview</string>
+    <string name="tab_rank_stats">Ranks &amp; Stats</string>
+    <string name="tab_guild">Guild / Clan</string>
+    <string name="tab_pet">Pet &amp; Extras</string>
+    <string name="err_empty_uid">Please enter a valid numeric UID</string>
+    <string name="err_invalid_uid_digits">UID should only contain numbers (e.g. 8-11 digits)</string>
+    <string name="err_not_found">Player with this UID was not found on the selected server.</string>
+    <string name="err_api_failure">Failed to retrieve player info. Please check the UID or try another server region.</string>
+    <string name="notice_disclaimer">This app only displays player information returned by the public API. No login credentials required.</string>
+</resources>

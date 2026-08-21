@@ -1,0 +1,6 @@
+{
+  "name": "Free Fire UID Checker",
+  "description": "Free Fire UID player stats and profile info checker across multiple game servers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
